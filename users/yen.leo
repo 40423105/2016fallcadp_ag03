@@ -194,6 +194,56 @@
 <v t="leo.20161016200030.74"><vh>new:LaTeX 格式方程式</vh></v>
 </v>
 </v>
+<v t="leo.20161212220053.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20161212220053.2"><vh>Recovered node "封面投影片" from @clean index.html</vh>
+<v t="leo.20161212220053.3"><vh>old:封面投影片</vh></v>
+<v t="leo.20161212220053.4"><vh>new:封面投影片</vh></v>
+</v>
+<v t="leo.20161212220053.5"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20161212220053.6"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20161212220053.7"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20161212220053.8"><vh>Recovered node "電腦輔助設計在教什麼?" from @clean index.html</vh>
+<v t="leo.20161212220053.9"><vh>old:電腦輔助設計在教什麼?</vh></v>
+<v t="leo.20161212220053.10"><vh>new:電腦輔助設計在教什麼?</vh></v>
+</v>
+<v t="leo.20161212220053.11"><vh>Recovered node "導入影片" from @clean index.html</vh>
+<v t="leo.20161212220053.12"><vh>old:導入影片</vh></v>
+<v t="leo.20161212220053.13"><vh>new:導入影片</vh></v>
+</v>
+<v t="leo.20161212220053.14"><vh>Recovered node "電腦輔助設計課程內涵" from @clean index.html</vh>
+<v t="leo.20161212220053.15"><vh>old:電腦輔助設計課程內涵</vh></v>
+<v t="leo.20161212220053.16"><vh>new:電腦輔助設計課程內涵</vh></v>
+</v>
+<v t="leo.20161212220053.17"><vh>Recovered node "利用 MD 寫內容" from @clean index.html</vh>
+<v t="leo.20161212220053.18"><vh>old:利用 MD 寫內容</vh></v>
+<v t="leo.20161212220053.19"><vh>new:利用 MD 寫內容</vh></v>
+</v>
+<v t="leo.20161212220053.20"><vh>Recovered node "Github pages 網頁" from @clean index.html</vh>
+<v t="leo.20161212220053.21"><vh>old:Github pages 網頁</vh></v>
+<v t="leo.20161212220053.22"><vh>new:Github pages 網頁</vh></v>
+</v>
+<v t="leo.20161212220053.23"><vh>Recovered node "iframe 導入影片" from @clean index.html</vh>
+<v t="leo.20161212220053.24"><vh>old:iframe 導入影片</vh></v>
+<v t="leo.20161212220053.25"><vh>new:iframe 導入影片</vh></v>
+</v>
+<v t="leo.20161212220053.26"><vh>Recovered node "導入設計表達內容" from @clean index.html</vh>
+<v t="leo.20161212220053.27"><vh>old:導入設計表達內容</vh></v>
+<v t="leo.20161212220053.28"><vh>new:導入設計表達內容</vh></v>
+</v>
+<v t="leo.20161212220053.29"><vh>Recovered node "LaTeX 格式方程式" from @clean index.html</vh>
+<v t="leo.20161212220053.30"><vh>old:LaTeX 格式方程式</vh></v>
+<v t="leo.20161212220053.31"><vh>new:LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20161212220053.32"><vh>Recovered node "導入縮排程式碼" from @clean index.html</vh>
+<v t="leo.20161212220053.33"><vh>old:導入縮排程式碼</vh></v>
+<v t="leo.20161212220053.34"><vh>new:導入縮排程式碼</vh></v>
+</v>
+<v t="leo.20161212220053.35"><vh>Recovered node "引用程式碼" from @clean index.html</vh>
+<v t="leo.20161212220053.36"><vh>old:引用程式碼</vh></v>
+<v t="leo.20161212220053.37"><vh>new:引用程式碼</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -299,33 +349,29 @@ print("hello")
 <t tx="amd.20161004083800.6">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
-
 </t>
 <t tx="amd.20161004083800.7">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
 @others
 &lt;/div&gt;
-
 </t>
 <t tx="amd.20161004095719.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
+	
 </t>
 <t tx="amd.20161004095719.2">## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第三組
+##WELCOME TO THE THIRD GROUP
+&lt;a href="https://40423105.github.io/2016fallcadp_hw/#/"&gt;40423105&lt;/a&gt;
+&lt;a href="https://40423115.github.io/2016fallcadp_hw/#/"&gt;40423115&lt;/a&gt;
+&lt;a href="https://40423119.github.io/2016fallcadp_hw/#/"&gt;40423119&lt;/a&gt;
+&lt;a href="https://40423128.github.io/2016fallcadp_hw/#/"&gt;40423128&lt;/a&gt;
+&lt;a href="https://40423139.github.io/2016fallcadp_hw/#/"&gt;40423139&lt;/a&gt;
+&lt;a href="https://40423149.github.io/2016fallcadp_hw/#/"&gt;40423149&lt;/a&gt;
+[blog](blogall/index.html)
 
-### Welcome to the third group
-
-&lt;small&gt;
-Created by [Hakim El Hattab](http://hakim.se)
-[@hakimel](http://twitter.com/hakimel)
-&lt;/small&gt;
-
-[blog](blog/index.html)
 </t>
 <t tx="amd.20161004101327.1">
 &lt;p&gt; 完成 &lt;/p&gt;
@@ -395,15 +441,15 @@ Created by [Hakim El Hattab](http://hakim.se)
 # 9/29成果影片
 
 &lt;iframe src="https://player.vimeo.com/video/185029053" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185029053"&gt;畫圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-					&lt;p&gt;心得 : 這是我第一次用這個軟體 不過很快就抓到訣竅了.&lt;/p&gt;
+					&lt;p&gt; 心得 : 用完這個軟體 我覺得有缺點也有優點.&lt;/p&gt;
+					&lt;p&gt; 優點 :1.方便攜帶 2.簡單入手 缺點:1.無法畫出複雜圖形 &lt;/p&gt;
+					
 
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
-&lt;/section&gt;
-&lt;section&gt;
+&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
 </t>
 <t tx="amd.20161004101327.2">
 
@@ -413,8 +459,8 @@ Created by [Hakim El Hattab](http://hakim.se)
 	
 	&lt;section data-markdown&gt;
 </t>
-<t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="amd.20161004112026.1"># 10/27四連桿機構
+
 @others
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -476,70 +522,292 @@ Created by [Hakim El Hattab](http://hakim.se)
 &lt;section&gt;
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-## 下載 miniconda 可攜環境
+## 40423119簡報
+## 設計二甲 第三組
 
-  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
-  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
-  * start.bat 啟動, stop.bat 關閉
-  * 建議存在隨身硬碟中使用
-
+[blog](blog40423119/index.html)
 
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-						
+	
+&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+##9/29作業影片
+&lt;iframe src="https://player.vimeo.com/video/185308413" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得:第一次用SOLVESPACE這套軟體繪製3D零件，介面功能都不太熟悉，在繪圖的過程中容易畫錯，但經過幾次的練習之後，慢慢地熟悉SOLVESPACE的功能。&lt;/p&gt;
+	&lt;/script&gt;
 &lt;/section&gt;
-&lt;section&gt;
 </t>
-<t tx="amd.20161004112026.2">## 電腦輔助設計實習課程
+<t tx="amd.20161004112026.2">
+&lt;p&gt;&lt;a href="http://imgur.com/POn3cgs"&gt;&lt;img src="http://i.imgur.com/POn3cgs.png"height="250" width="500" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;p&gt; 心得:可以非常簡易的畫出四連桿運動的路線&lt;/p&gt;
+&lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
+&lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.csv"&gt;40423105 w7.csv&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+&lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.slvs"&gt;40423105 w7.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;&lt;/p&gt;
 
-教學主題
-
-  * 課程網頁、學員網頁、分組網頁串連
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * Delta 3D printer 零組件列印組立
-  * 建立網際自評系統
-
+					
 
     &lt;/script&gt;
 &lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
 
+
+
+</t>
+<t tx="amd.20161004171423.1">
 
 						
-</t>
-<t tx="amd.20161004171423.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
+[blog](blog40423149/index.html)  
+
+    &lt;/script&gt;
+&lt;/section&gt;
+						
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-## 使用 iframe 導入影片
+##10/1作業影片
+&lt;iframe src="https://player.vimeo.com/video/185119125" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;心得:此軟體使自己認識到,原來立體繪圖也能輕鬆取得程式碼&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week1 成果影片
+## 設計二甲 第三組
 
-### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/190834821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190834821"&gt;2016 11 09 16 12 49 398&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-2作業影片
+&lt;iframe src="https://player.vimeo.com/video/191654418" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191654418"&gt;2016 11 15 23 26 57 93&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/190879920" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190879920"&gt;7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
     &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-4作業影片
+&lt;iframe src="https://player.vimeo.com/video/190832674" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190832674"&gt;2016 11 09 16 04 53 473&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
 &lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-5作業影片
+&lt;iframe src="https://player.vimeo.com/video/191655630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191655630"&gt;2016 11 15 23 35 33 433&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-6作業影片
+&lt;iframe src="https://player.vimeo.com/video/190854827" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190854827"&gt;2016 11 09 20 03 11 881&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;/section&gt;
+&lt;section&gt;
+	
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week2 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/190835025" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190835025"&gt;2016 11 09 16 24 24 453&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-2作業影片
+&lt;iframe src="https://player.vimeo.com/video/191658935" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191658935"&gt;2016 11 15 23 41 14 468&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/190879856" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190879856"&gt;6&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-4作業影片
+&lt;iframe src="https://player.vimeo.com/video/190832673" width="640" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190832673"&gt;2016 11 09 15 42 09 596&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-5作業影片
+&lt;iframe src="https://player.vimeo.com/video/190855153" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190855153"&gt;2016 11 09 19 56 21 338&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week3 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/194847809" width="640" height="342" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194847809"&gt;2016 12 09 00 45 22 932&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-2作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/194834359" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194834359"&gt;2-3-2 HomeWork&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-4作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-5作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week4 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week4作業影片
+&lt;iframe src="https://player.vimeo.com/video/194387967" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week5 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week5-1作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week6 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week6作業影片
+&lt;iframe src="https://player.vimeo.com/video/194388063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+   &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;/section&gt;				
 </t>
-<t tx="amd.20161004171423.2"># 數學符號與方程式
+<t tx="amd.20161004171423.2">&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423128簡報
+## 設計二甲 第三組
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+[blog](blog40423128/index.html)
 
-$$I = \int \rho R^{2} dV$$
     &lt;/script&gt;
 &lt;/section&gt;
-
-
-
-						
+	
 </t>
 <t tx="leo.20151212173315.1"></t>
 <t tx="leo.20151212173315.2">QTreeWidget {
@@ -715,7 +983,7 @@ DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161013151511.3">## 40423105 簡報
 ##設計二甲 第三組
 
-
+[blog](blog/index.html)
 
     &lt;/script&gt;
 &lt;/section&gt;
@@ -773,46 +1041,46 @@ DEFAULT_DATE = 'fs'</t>
 &lt;p&gt;點選create new file &lt;/p&gt;
 </t>
 <t tx="leo.20161013152112.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
+&lt;script type="text/template"&gt;
+##9/29成果影片
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423149簡報
+## 設計二甲 第三組
 
-
-
-						
 </t>
-<t tx="leo.20161013152112.2">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
+<t tx="leo.20161013152112.2">&lt;iframe src="https://player.vimeo.com/video/185343182" width="640" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得 : 這個軟體提供簡單的3D繪圖功能 並且公開程式原始碼讓使用者可自行編譯.&lt;/p&gt;
+ &lt;/script&gt;
 @language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20161013152737.1">&lt;section data-markdown&gt;
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+## 40423139簡報
+## 設計二甲 第三組
+
+[blog](blog40423139/index.html)  
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##9/29作業影片
+&lt;iframe src="https://player.vimeo.com/video/185309610" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得:第一次學習這個軟體,感覺非常實用&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20161013152737.1">
+
 @others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -820,16 +1088,30 @@ make.start()
 
 						
 </t>
-<t tx="leo.20161013152737.2">## Github Pages 網頁
+<t tx="leo.20161013152737.2">					
 
-各學員必須完成
+    &lt;/script&gt;
+&lt;/section&gt;
 
-  * 個人網頁
-  * Solvespace 零組件繪圖與機構模擬
-  * OnShape 零組件繪圖與機構模擬
-  * Delta 3D printer 零組件繪圖與模擬
-  * 利用 Delta 3D printer 列印零組件並組立
-  * 建立網際自評系統
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423115 簡報
+##設計二甲 第三組
+
+[blog](blog40423115/index.html)
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 9/29畫圖影片
+
+&lt;iframe src="https://player.vimeo.com/video/185310643" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20161016200030.10">&lt;section&gt;
 @others
@@ -2000,5 +2282,1479 @@ Diff...
 + &lt;/section&gt;
 </t>
 <t tx="leo.20161016203347.1"></t>
+<t tx="leo.20161212220053.1"></t>
+<t tx="leo.20161212220053.10">## 40423105 簡報
+##設計二甲 第三組
+
+[blog](blog/index.html)
+
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161212220053.11">(uncached) amd.20161004101327.1
+Diff...
+  
+  &lt;p&gt; 完成 &lt;/p&gt;
+  @others
+      &lt;script type="text/template"&gt;
+  
+  ## 9/29筆記 
+  
+  &lt;p&gt;1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸
+    8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣
+    14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式) &lt;/p&gt;
+  
+      &lt;/script&gt;
+  &lt;/section&gt;
+  	
+  		&lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  &lt;p&gt; 錄影工具:sharex&lt;/p&gt;
+  
+  &lt;p&gt;   1.paths &lt;/p&gt;
+  
+  &lt;p&gt; 2.task → screen   recorder →  options&lt;/p&gt;
+  
+  &lt;p&gt; 開始錄製:shift+ print screen &lt;/p&gt;
+  
+  &lt;p&gt; 射出成型軟體:moldex3d&lt;/p&gt;
+     &lt;/script&gt;
+  &lt;/section&gt;
+  	
+  		&lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  &lt;p&gt;簡報:shower.js  &lt;/p&gt;
+  
+  ##9/29作業
+  
+  &lt;p&gt;成品影片:https://vimeo.com/185029053 &lt;/p&gt;
+  
+  ##10/6筆記
+  
+  &lt;p&gt; proxy設定:proxy.mde.tw 通訊阜:3128&lt;/p&gt;
+     &lt;/script&gt;
+  &lt;/section&gt;
+  	
+  	&lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  &lt;p&gt;去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4&lt;/p&gt;
+  
+  &lt;p&gt;字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4&lt;/p&gt;
+  
+  &lt;p&gt;安裝pelican指令:pip install pelican&lt;/p&gt;
+  
+  ##10/13筆記
+  
+  &lt;p&gt;刪除指令:git rm -rf &lt;/p&gt;
+   &lt;/script&gt;
+  &lt;/section&gt;
+  
+  	&lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  &lt;p&gt;下載分支內的東西:git submodule update --init --recursive&lt;/p&gt;
+  &lt;p&gt;子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&amp;"&lt;/p&gt;
+  &lt;/script&gt;
+  &lt;/section&gt;
+  	
+  	&lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  # 9/29成果影片
+  
+  &lt;iframe src="https://player.vimeo.com/video/185029053" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185029053"&gt;畫圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
++ 					&lt;p&gt;心得 : 這是我第一次用這個軟體 不過很快就抓到訣竅了.&lt;/p&gt;
+- 					&lt;p&gt; 心得 : 用完這個軟體 我覺得有缺點也有優點.&lt;/p&gt;
+- 					&lt;p&gt; 優點 :1.方便攜帶 2.簡單入手 缺點:1.無法畫出複雜圖形 &lt;/p&gt;
+- 					
+  
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+- &lt;section data-markdown&gt;
+- &lt;script type="text/template"&gt;
++ 
++ 						
++ &lt;/section&gt;
++ &lt;section&gt;
+</t>
+<t tx="leo.20161212220053.12">
+&lt;p&gt; 完成 &lt;/p&gt;
+@others
+    &lt;script type="text/template"&gt;
+
+## 9/29筆記 
+
+&lt;p&gt;1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸
+  8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣
+  14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式) &lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt; 錄影工具:sharex&lt;/p&gt;
+
+&lt;p&gt;   1.paths &lt;/p&gt;
+
+&lt;p&gt; 2.task → screen   recorder →  options&lt;/p&gt;
+
+&lt;p&gt; 開始錄製:shift+ print screen &lt;/p&gt;
+
+&lt;p&gt; 射出成型軟體:moldex3d&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;簡報:shower.js  &lt;/p&gt;
+
+##9/29作業
+
+&lt;p&gt;成品影片:https://vimeo.com/185029053 &lt;/p&gt;
+
+##10/6筆記
+
+&lt;p&gt; proxy設定:proxy.mde.tw 通訊阜:3128&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4&lt;/p&gt;
+
+&lt;p&gt;字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4&lt;/p&gt;
+
+&lt;p&gt;安裝pelican指令:pip install pelican&lt;/p&gt;
+
+##10/13筆記
+
+&lt;p&gt;刪除指令:git rm -rf &lt;/p&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;下載分支內的東西:git submodule update --init --recursive&lt;/p&gt;
+&lt;p&gt;子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&amp;"&lt;/p&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+# 9/29成果影片
+
+&lt;iframe src="https://player.vimeo.com/video/185029053" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185029053"&gt;畫圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+					&lt;p&gt;心得 : 這是我第一次用這個軟體 不過很快就抓到訣竅了.&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+</t>
+<t tx="leo.20161212220053.13">
+&lt;p&gt; 完成 &lt;/p&gt;
+@others
+    &lt;script type="text/template"&gt;
+
+## 9/29筆記 
+
+&lt;p&gt;1.radinsed半徑 2.diameter直徑 3.place放置 4.symmetrically對稱 5.lnitially開始 6.oriented定位 7.axes軸
+  8.indicated表示 9.respectively分別 10.parallel平行 11.extruding長出 12.automatically自動 13.coincident一模一樣
+  14.constraint約束 15.horizontal橫 16.perpendicular垂直 17.step圖(格式) &lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt; 錄影工具:sharex&lt;/p&gt;
+
+&lt;p&gt;   1.paths &lt;/p&gt;
+
+&lt;p&gt; 2.task → screen   recorder →  options&lt;/p&gt;
+
+&lt;p&gt; 開始錄製:shift+ print screen &lt;/p&gt;
+
+&lt;p&gt; 射出成型軟體:moldex3d&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;簡報:shower.js  &lt;/p&gt;
+
+##9/29作業
+
+&lt;p&gt;成品影片:https://vimeo.com/185029053 &lt;/p&gt;
+
+##10/6筆記
+
+&lt;p&gt; proxy設定:proxy.mde.tw 通訊阜:3128&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;去聲音指令:ffmpeg.exe -i 檔名 -c copy -an out.mp4&lt;/p&gt;
+
+&lt;p&gt;字幕指令:ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4&lt;/p&gt;
+
+&lt;p&gt;安裝pelican指令:pip install pelican&lt;/p&gt;
+
+##10/13筆記
+
+&lt;p&gt;刪除指令:git rm -rf &lt;/p&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;下載分支內的東西:git submodule update --init --recursive&lt;/p&gt;
+&lt;p&gt;子模組的對應版本更新到目前最新提交:git submodule foreach "(git checkout gh-pages; git pull)&amp;"&lt;/p&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+# 9/29成果影片
+
+&lt;iframe src="https://player.vimeo.com/video/185029053" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/185029053"&gt;畫圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+					&lt;p&gt; 心得 : 用完這個軟體 我覺得有缺點也有優點.&lt;/p&gt;
+					&lt;p&gt; 優點 :1.方便攜帶 2.簡單入手 缺點:1.無法畫出複雜圖形 &lt;/p&gt;
+					
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+</t>
+<t tx="leo.20161212220053.14">(uncached) amd.20161004112026.1
+Diff...
+- # 10/27四連桿機構
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  ## 操作影片錄製
+  
+    * Windows 環境下使用 ShareX
+    * Ubuntu 環境下使用 Kazam
+    * 影片檔岸上傳到 Vimeo
+    * 影片檔案上傳到 Youtube
+    * 在投影片與網誌中嵌入影片檔
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  ## Solvespace 實習
+  
+    * Solvespace 零件繪製
+    * Solvespace 零件組立
+    * Delta 3D Printer 機構模擬
+    * 平面四連桿機構模擬與驗證
+    * 平面多連桿機構模擬與驗證
+    * Solvespace 程式編譯
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  ## OnShape 實習
+  
+    * OnShape 零件繪製
+    * OnShape 零件組立
+    * Delta 3D Printer 機構模擬
+    * 平面四連桿機構模擬與驗證
+    * 平面多連桿機構模擬與驗證
+    * Featurescript 範例操作
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  ## Flask 網際程式
+  
+    * 以 CMSimfly 為例
+    * 以 PyGrouf 為例
+    * 以 Jupyterhub 為例
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+  &lt;/section&gt;
+  &lt;section&gt;
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
++ ## 下載 miniconda 可攜環境
+- ## 40423119簡報
+- ## 設計二甲 第三組
+  
+- [blog](blog40423119/index.html)
++   * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
++   * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
++   * start.bat 啟動, stop.bat 關閉
++   * 建議存在隨身硬碟中使用
++ 
+  
+      &lt;/script&gt;
+  &lt;/section&gt;
++ 
++ 
++ 						
+- 	
+- &lt;section data-markdown&gt;
+- &lt;script type="text/template"&gt;
+- ##9/29作業影片
+- &lt;iframe src="https://player.vimeo.com/video/185308413" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;心得:第一次用SOLVESPACE這套軟體繪製3D零件，介面功能都不太熟悉，在繪圖的過程中容易畫錯，但經過幾次的練習之後，慢慢地熟悉SOLVESPACE的功能。&lt;/p&gt;
+- 	&lt;/script&gt;
+  &lt;/section&gt;
++ &lt;section&gt;
+</t>
+<t tx="leo.20161212220053.15">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 操作影片錄製
+
+  * Windows 環境下使用 ShareX
+  * Ubuntu 環境下使用 Kazam
+  * 影片檔岸上傳到 Vimeo
+  * 影片檔案上傳到 Youtube
+  * 在投影片與網誌中嵌入影片檔
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## Solvespace 實習
+
+  * Solvespace 零件繪製
+  * Solvespace 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Solvespace 程式編譯
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## OnShape 實習
+
+  * OnShape 零件繪製
+  * OnShape 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Featurescript 範例操作
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## Flask 網際程式
+
+  * 以 CMSimfly 為例
+  * 以 PyGrouf 為例
+  * 以 Jupyterhub 為例
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 下載 miniconda 可攜環境
+
+  * 在電腦教室下載 [mini2016fall.7z](http://140.130.17.17/public/2016fall/mini2016fall_with_leo.7z)
+  * 從外部下載 [mini2016fall.7z](https://140.130.17.101/download/?filepath=/home/yen/cmsimply/wsgi/local_data/downloads/mini2016fall_with_leo.7z)
+  * start.bat 啟動, stop.bat 關閉
+  * 建議存在隨身硬碟中使用
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+</t>
+<t tx="leo.20161212220053.16"># 10/27四連桿機構
+
+@others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 操作影片錄製
+
+  * Windows 環境下使用 ShareX
+  * Ubuntu 環境下使用 Kazam
+  * 影片檔岸上傳到 Vimeo
+  * 影片檔案上傳到 Youtube
+  * 在投影片與網誌中嵌入影片檔
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## Solvespace 實習
+
+  * Solvespace 零件繪製
+  * Solvespace 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Solvespace 程式編譯
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## OnShape 實習
+
+  * OnShape 零件繪製
+  * OnShape 零件組立
+  * Delta 3D Printer 機構模擬
+  * 平面四連桿機構模擬與驗證
+  * 平面多連桿機構模擬與驗證
+  * Featurescript 範例操作
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## Flask 網際程式
+
+  * 以 CMSimfly 為例
+  * 以 PyGrouf 為例
+  * 以 Jupyterhub 為例
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423119簡報
+## 設計二甲 第三組
+
+[blog](blog40423119/index.html)
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+##9/29作業影片
+&lt;iframe src="https://player.vimeo.com/video/185308413" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得:第一次用SOLVESPACE這套軟體繪製3D零件，介面功能都不太熟悉，在繪圖的過程中容易畫錯，但經過幾次的練習之後，慢慢地熟悉SOLVESPACE的功能。&lt;/p&gt;
+	&lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20161212220053.17">(uncached) amd.20161004112026.2
+Diff...
++ ## 電腦輔助設計實習課程
+  
++ 教學主題
+- &lt;p&gt;&lt;a href="http://imgur.com/POn3cgs"&gt;&lt;img src="http://i.imgur.com/POn3cgs.png"height="250" width="500" title="source: imgur.com" /&gt;&lt;/a&gt;
+- &lt;p&gt; 心得:可以非常簡易的畫出四連桿運動的路線&lt;/p&gt;
+- &lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
+- &lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.csv"&gt;40423105 w7.csv&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+- &lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.slvs"&gt;40423105 w7.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;&lt;/p&gt;
+  
+- 					
++   * 課程網頁、學員網頁、分組網頁串連
++   * Solvespace 零組件繪圖與機構模擬
++   * OnShape 零組件繪圖與機構模擬
++   * Delta 3D printer 零組件繪圖與模擬
++   * Delta 3D printer 零組件列印組立
++   * 建立網際自評系統
++ 
+  
+      &lt;/script&gt;
+  &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+- &lt;script type="text/template"&gt;
+  
+  
+- 
++ 						
+</t>
+<t tx="leo.20161212220053.18">## 電腦輔助設計實習課程
+
+教學主題
+
+  * 課程網頁、學員網頁、分組網頁串連
+  * Solvespace 零組件繪圖與機構模擬
+  * OnShape 零組件繪圖與機構模擬
+  * Delta 3D printer 零組件繪圖與模擬
+  * Delta 3D printer 零組件列印組立
+  * 建立網際自評系統
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161212220053.19">
+&lt;p&gt;&lt;a href="http://imgur.com/POn3cgs"&gt;&lt;img src="http://i.imgur.com/POn3cgs.png"height="250" width="500" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;p&gt; 心得:可以非常簡易的畫出四連桿運動的路線&lt;/p&gt;
+&lt;p&gt;Solvespace 四連桿圖檔:&lt;/p&gt;
+&lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.csv"&gt;40423105 w7.csv&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+&lt;p&gt;&lt;a href="/2016fallcadp_ag03/40423105w7/40423105 w7.slvs"&gt;40423105 w7.slvs&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;&lt;/p&gt;
+
+					
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+
+
+
+</t>
+<t tx="leo.20161212220053.2">(uncached) amd.20161004095719.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+- 	
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161212220053.20">(uncached) leo.20161013152737.1
+Diff...
+- 
+- 
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20161212220053.21">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161212220053.22">
+
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161212220053.23">(uncached) leo.20161013152737.2
+Diff...
+- 					
++ ## Github Pages 網頁
+  
++ 各學員必須完成
+-     &lt;/script&gt;
+- &lt;/section&gt;
+  
++   * 個人網頁
++   * Solvespace 零組件繪圖與機構模擬
++   * OnShape 零組件繪圖與機構模擬
++   * Delta 3D printer 零組件繪圖與模擬
++   * 利用 Delta 3D printer 列印零組件並組立
++   * 建立網際自評系統
+- 						
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 40423115 簡報
+- ##設計二甲 第三組
+- 
+- [blog](blog40423115/index.html)
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 9/29畫圖影片
+- 
+- &lt;iframe src="https://player.vimeo.com/video/185310643" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161212220053.24">## Github Pages 網頁
+
+各學員必須完成
+
+  * 個人網頁
+  * Solvespace 零組件繪圖與機構模擬
+  * OnShape 零組件繪圖與機構模擬
+  * Delta 3D printer 零組件繪圖與模擬
+  * 利用 Delta 3D printer 列印零組件並組立
+  * 建立網際自評系統
+</t>
+<t tx="leo.20161212220053.25">					
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+						
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423115 簡報
+##設計二甲 第三組
+
+[blog](blog40423115/index.html)
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 9/29畫圖影片
+
+&lt;iframe src="https://player.vimeo.com/video/185310643" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20161212220053.26">(uncached) amd.20161004171423.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
++ @others
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
++ ## 使用 iframe 導入影片
++ 
++ ### 導入影片 template
++ 
++ &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
+  
+  						
+- @others
+- [blog](blog40423149/index.html)  
+- 
+-     &lt;/script&gt;
+  &lt;/section&gt;
+- 						
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##10/1作業影片
+- &lt;iframe src="https://player.vimeo.com/video/185119125" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+-     &lt;p&gt;心得:此軟體使自己認識到,原來立體繪圖也能輕鬆取得程式碼&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week1 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-1作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190834821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190834821"&gt;2016 11 09 16 12 49 398&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-2作業影片
+- &lt;iframe src="https://player.vimeo.com/video/191654418" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/191654418"&gt;2016 11 15 23 26 57 93&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 		&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-3作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190879920" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190879920"&gt;7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 		&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-4作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190832674" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190832674"&gt;2016 11 09 16 04 53 473&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 		&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-5作業影片
+- &lt;iframe src="https://player.vimeo.com/video/191655630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/191655630"&gt;2016 11 15 23 35 33 433&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 			&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week1-6作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190854827" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190854827"&gt;2016 11 09 20 03 11 881&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;/section&gt;
+- &lt;section&gt;
+- 	
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week2 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week2-1作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190835025" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190835025"&gt;2016 11 09 16 24 24 453&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 		&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week2-2作業影片
+- &lt;iframe src="https://player.vimeo.com/video/191658935" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/191658935"&gt;2016 11 15 23 41 14 468&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 			&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week2-3作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190879856" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190879856"&gt;6&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 			&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week2-4作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190832673" width="640" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/190832673"&gt;2016 11 09 15 42 09 596&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 			&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week2-5作業影片
+- &lt;iframe src="https://player.vimeo.com/video/190855153" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190855153"&gt;2016 11 09 19 56 21 338&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week3 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week3-1作業影片
+- &lt;iframe src="https://player.vimeo.com/video/194847809" width="640" height="342" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/194847809"&gt;2016 12 09 00 45 22 932&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+- 
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week3-2作業影片
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week3-3作業影片
+- &lt;iframe src="https://player.vimeo.com/video/194834359" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;&lt;a href="https://vimeo.com/194834359"&gt;2-3-2 HomeWork&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week3-4作業影片
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week3-5作業影片
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week4 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week4作業影片
+- &lt;iframe src="https://player.vimeo.com/video/194387967" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- 
+- 
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	
+- 	&lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week5 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week5-1作業影片
+-  &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	
+- 	&lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## onshape week6 成果影片
+- ## 設計二甲 第三組
+- 
+- 
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##week6作業影片
+- &lt;iframe src="https://player.vimeo.com/video/194388063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- 
+- 
+-    &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- 
+- 
+- &lt;/section&gt;				
+</t>
+<t tx="leo.20161212220053.27">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+&lt;/section&gt;
+</t>
+<t tx="leo.20161212220053.28">
+
+						
+@others
+[blog](blog40423149/index.html)  
+
+    &lt;/script&gt;
+&lt;/section&gt;
+						
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##10/1作業影片
+&lt;iframe src="https://player.vimeo.com/video/185119125" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;心得:此軟體使自己認識到,原來立體繪圖也能輕鬆取得程式碼&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week1 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/190834821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190834821"&gt;2016 11 09 16 12 49 398&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-2作業影片
+&lt;iframe src="https://player.vimeo.com/video/191654418" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191654418"&gt;2016 11 15 23 26 57 93&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/190879920" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190879920"&gt;7&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-4作業影片
+&lt;iframe src="https://player.vimeo.com/video/190832674" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190832674"&gt;2016 11 09 16 04 53 473&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-5作業影片
+&lt;iframe src="https://player.vimeo.com/video/191655630" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191655630"&gt;2016 11 15 23 35 33 433&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week1-6作業影片
+&lt;iframe src="https://player.vimeo.com/video/190854827" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190854827"&gt;2016 11 09 20 03 11 881&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;/section&gt;
+&lt;section&gt;
+	
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week2 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/190835025" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190835025"&gt;2016 11 09 16 24 24 453&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+		&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-2作業影片
+&lt;iframe src="https://player.vimeo.com/video/191658935" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/191658935"&gt;2016 11 15 23 41 14 468&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/190879856" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190879856"&gt;6&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-4作業影片
+&lt;iframe src="https://player.vimeo.com/video/190832673" width="640" height="355" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190832673"&gt;2016 11 09 15 42 09 596&lt;/a&gt; from &lt;a href="https://vimeo.com/user45924793"&gt;Su  Sam&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+			&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week2-5作業影片
+&lt;iframe src="https://player.vimeo.com/video/190855153" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/190855153"&gt;2016 11 09 19 56 21 338&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week3 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-1作業影片
+&lt;iframe src="https://player.vimeo.com/video/194847809" width="640" height="342" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194847809"&gt;2016 12 09 00 45 22 932&lt;/a&gt; from &lt;a href="https://vimeo.com/user44512429"&gt;40423105&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-2作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-3作業影片
+&lt;iframe src="https://player.vimeo.com/video/194834359" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/194834359"&gt;2-3-2 HomeWork&lt;/a&gt; from &lt;a href="https://vimeo.com/user45127671"&gt;404231119&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-4作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week3-5作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week4 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week4作業影片
+&lt;iframe src="https://player.vimeo.com/video/194387967" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+   &lt;/script&gt;
+&lt;/section&gt;
+	
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week5 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week5-1作業影片
+ &lt;/script&gt;
+&lt;/section&gt;
+	
+	
+	&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## onshape week6 成果影片
+## 設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##week6作業影片
+&lt;iframe src="https://player.vimeo.com/video/194388063" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+   &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;/section&gt;				
+</t>
+<t tx="leo.20161212220053.29">(uncached) amd.20161004171423.2
+Diff...
++ # 數學符號與方程式
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 40423128簡報
+- ## 設計二甲 第三組
+  
+- [blog](blog40423128/index.html)
++ Inline math equations go in like so: $\omega = d\phi / dt$. Display
++ math should get its own line and be put in in double-dollarsigns:
+  
++ $$I = \int \rho R^{2} dV$$
+      &lt;/script&gt;
+  &lt;/section&gt;
+- 	
++ 
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161212220053.3">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20161212220053.30"># 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161212220053.31">&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423128簡報
+## 設計二甲 第三組
+
+[blog](blog40423128/index.html)
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20161212220053.32">(uncached) leo.20161013152112.1
+Diff...
+- &lt;section data-markdown&gt;
+- &lt;script type="text/template"&gt;
+- ##9/29成果影片
+- @others
+- &lt;section&gt;
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+- ## 40423149簡報
+- ## 設計二甲 第三組
++ &lt;!-- 請注意, @others 不可以內縮 --&gt;
++ @others
++     &lt;/script&gt;
++ &lt;/section&gt;
+  
++ 
++ 
++ 						
+</t>
+<t tx="leo.20161212220053.33">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161212220053.34">&lt;section data-markdown&gt;
+&lt;script type="text/template"&gt;
+##9/29成果影片
+@others
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423149簡報
+## 設計二甲 第三組
+
+</t>
+<t tx="leo.20161212220053.35">(uncached) leo.20161013152112.2
+Diff...
+- &lt;iframe src="https://player.vimeo.com/video/185343182" width="640" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;心得 : 這個軟體提供簡單的3D繪圖功能 並且公開程式原始碼讓使用者可自行編譯.&lt;/p&gt;
+-  &lt;/script&gt;
++ ## 利用 Markdown 寫投影片
++ 以下利用 Markdown 格式展示 Python 程式碼:
++ ```
+  @language python
++ # use threading and subprocess to threading the make process
++ import os
++ import subprocess
++ import threading
+- &lt;/section&gt;
+- 	
+- &lt;/section&gt;
+- &lt;section&gt;
+- &lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ## 40423139簡報
+- ## 設計二甲 第三組
+  
+- [blog](blog40423139/index.html)  
+- 
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 	
+- 	&lt;section data-markdown&gt;
+-     &lt;script type="text/template"&gt;
+- ##9/29作業影片
+- &lt;iframe src="https://player.vimeo.com/video/185309610" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+- &lt;p&gt;心得:第一次學習這個軟體,感覺非常實用&lt;/p&gt;
+-     &lt;/script&gt;
+- &lt;/section&gt;
+- 
+- &lt;/section&gt;
++ def domake():
++     
++     path = "../exposed/api/exposed"
++     ubuntu = "../Ubuntu"
++     
++     # create obj path
++     
++     if not os.path.exists(path+"/../obj"):
++         os.makedirs(path+"/../obj")
++     
++     subprocess.call(["make", "clean"], cwd=path)
++     subprocess.call("make", cwd=path)
++     subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
++     subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
++     
++ make = threading.Thread(target=domake)
++ make.start()
++ ```
+</t>
+<t tx="leo.20161212220053.36">## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+@language python
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+</t>
+<t tx="leo.20161212220053.37">&lt;iframe src="https://player.vimeo.com/video/185343182" width="640" height="354" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得 : 這個軟體提供簡單的3D繪圖功能 並且公開程式原始碼讓使用者可自行編譯.&lt;/p&gt;
+ &lt;/script&gt;
+@language python
+&lt;/section&gt;
+	
+&lt;/section&gt;
+&lt;section&gt;
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 40423139簡報
+## 設計二甲 第三組
+
+[blog](blog40423139/index.html)  
+
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+	&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+##9/29作業影片
+&lt;iframe src="https://player.vimeo.com/video/185309610" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;心得:第一次學習這個軟體,感覺非常實用&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20161212220053.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20161212220053.5">(uncached) amd.20161004095719.2
+Diff...
+  ## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第三組
+- ##WELCOME TO THE THIRD GROUP
+- &lt;a href="https://40423105.github.io/2016fallcadp_hw/#/"&gt;40423105&lt;/a&gt;
+- &lt;a href="https://40423115.github.io/2016fallcadp_hw/#/"&gt;40423115&lt;/a&gt;
+- &lt;a href="https://40423119.github.io/2016fallcadp_hw/#/"&gt;40423119&lt;/a&gt;
+- &lt;a href="https://40423128.github.io/2016fallcadp_hw/#/"&gt;40423128&lt;/a&gt;
+- &lt;a href="https://40423139.github.io/2016fallcadp_hw/#/"&gt;40423139&lt;/a&gt;
+- &lt;a href="https://40423149.github.io/2016fallcadp_hw/#/"&gt;40423149&lt;/a&gt;
+- [blog](blogall/index.html)
+  
++ ### Welcome to the third group
++ 
++ &lt;small&gt;
++ Created by [Hakim El Hattab](http://hakim.se)
++ [@hakimel](http://twitter.com/hakimel)
++ &lt;/small&gt;
++ 
++ [blog](blog/index.html)
+</t>
+<t tx="leo.20161212220053.6">## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第三組
+
+### Welcome to the third group
+
+&lt;small&gt;
+Created by [Hakim El Hattab](http://hakim.se)
+[@hakimel](http://twitter.com/hakimel)
+&lt;/small&gt;
+
+[blog](blog/index.html)
+</t>
+<t tx="leo.20161212220053.7">## 2016 Fall 電腦輔助設計實習課程 四設計二甲 第三組
+##WELCOME TO THE THIRD GROUP
+&lt;a href="https://40423105.github.io/2016fallcadp_hw/#/"&gt;40423105&lt;/a&gt;
+&lt;a href="https://40423115.github.io/2016fallcadp_hw/#/"&gt;40423115&lt;/a&gt;
+&lt;a href="https://40423119.github.io/2016fallcadp_hw/#/"&gt;40423119&lt;/a&gt;
+&lt;a href="https://40423128.github.io/2016fallcadp_hw/#/"&gt;40423128&lt;/a&gt;
+&lt;a href="https://40423139.github.io/2016fallcadp_hw/#/"&gt;40423139&lt;/a&gt;
+&lt;a href="https://40423149.github.io/2016fallcadp_hw/#/"&gt;40423149&lt;/a&gt;
+[blog](blogall/index.html)
+
+</t>
+<t tx="leo.20161212220053.8">(uncached) leo.20161013151511.3
+Diff...
+  ## 40423105 簡報
+  ##設計二甲 第三組
+  
+- [blog](blog/index.html)
++ 
+  
+      &lt;/script&gt;
+  &lt;/section&gt;
+</t>
+<t tx="leo.20161212220053.9">## 40423105 簡報
+##設計二甲 第三組
+
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
